@@ -236,6 +236,7 @@ export const CifraEditor = () => {
                       <SelectItem value="Sertanejo">Sertanejo</SelectItem>
                       <SelectItem value="Blues">Blues</SelectItem>
                       <SelectItem value="Jazz">Jazz</SelectItem>
+                    <SelectItem value="Gospel">Jazz</SelectItem>
                       <SelectItem value="Outros">Outros</SelectItem>
                     </SelectContent>
                   </Select>
